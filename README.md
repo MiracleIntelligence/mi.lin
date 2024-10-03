@@ -18,6 +18,4 @@
 
 
 Якщо вам знадобився досвід і бажаєте підтримати розробників, зробіть це:
-
-* __XEM:__ NBEDMM-KFI3UJ-TBXYCV-P5KK5Y-LW4JMO-VOX6Y2-5VTH 
 * __BTC:__ 36Ru2YqtCQymfJQZxoUCYtdgemjo88axwC
